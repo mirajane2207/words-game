@@ -1,0 +1,4 @@
+com\chernenko\words\domain\Words.class
+com\chernenko\words\Application.class
+com\chernenko\words\service\WordsService.class
+com\chernenko\words\controller\WordsController.class
